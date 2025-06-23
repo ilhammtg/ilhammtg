@@ -1,4 +1,4 @@
-# 👋 Halo! Saya **[Ilham]**
+# 👋 Halo! Saya **ILHAM**
 
 <div align="center">
   
@@ -13,29 +13,64 @@
 
 ---
 
-## 🎮 **Mini Game: Tebak Stack Tech Saya!**
+## 🎮 **Mini Game: ASCII Pacman Adventure!**
 
 <details>
-<summary>🎯 <b>Klik untuk bermain!</b></summary>
+<summary>🎯 <b>Klik untuk bermain Pacman!</b></summary>
 
-### 🔥 **Quick Quiz**: Teknologi mana yang paling sering saya gunakan?
+### 🟡 **Pacman's Tech Stack Hunt**
 
-**A)** React + Node.js  
-**B)** Laravel + PHP  
-**C)** Python + Django  
-**D)** Vue.js + Express  
+```
+Level 1: Laravel Maze
+┌─────────────────────────────────────┐
+│ ◗ · · · 🐋 · · · 🤖 · · · ⚡ · · · │
+│ · ┌─┐ · ┌───┐ · ┌───┐ · ┌─┐ · ┌─┐ │
+│ · │ │ · │ L │ · │ D │ · │ P │ · │ │ │
+│ · └─┘ · │ A │ · │ O │ · │ H │ · └─┘ │
+│ · · · · │ R │ · │ C │ · │ P │ · · · │
+│ 🔥 · · · │ A │ · │ K │ · │ ◗ │ · 🎯 │
+│ · ┌─┐ · │ V │ · │ E │ · └─┘ · ┌─┐ · │
+│ · │ │ · │ E │ · │ R │ · · · · │ │ · │
+│ · └─┘ · │ L │ · └───┘ · ┌─┐ · └─┘ · │
+│ · · · · └───┘ · · · · · │🤖│ · · · · │
+│ 🚀 · · · · · · 💻 · · · └─┘ · · ✨ │
+└─────────────────────────────────────┘
+
+🟡 Pacman telah mengumpulkan:
+├─ 🐋 Docker (Containerization Master!)
+├─ ⚡ Laravel (PHP Framework King!)  
+├─ 🤖 Arduino (Hardware Hero!)
+├─ 🔥 MySQL (Database Champion!)
+├─ 💻 VS Code (Coding Companion!)
+├─ 🚀 Git (Version Control Wizard!)
+└─ ✨ TailwindCSS (Styling Superstar!)
+
+Score: 7/7 Tech Stacks Collected! 🏆
+```
 
 <details>
-<summary>📝 <b>Lihat Jawaban</b></summary>
+<summary>🏅 <b>Lihat Achievement</b></summary>
 
-### ✅ **Jawaban: B) Laravel + PHP**
+### 🎉 **PERFECT SCORE!** 
 
-**Benar!** 🎉 Saya passionate banget dengan ekosistem Laravel dan PHP. Selain itu, saya juga aktif menggunakan:
-- 🐋 **Docker** untuk containerization
-- 🤖 **IoT & Mikrokontroller** untuk hardware projects
-- ⚡ **Modern PHP** dengan best practices
+**Selamat!** Pacman berhasil mengumpulkan semua tech stack yang saya kuasai:
 
-**Bonus Point**: Saya juga suka eksperimen dengan hardware dan bikin project IoT yang keren! 🚀
+**🔥 Backend Power:**
+- Laravel sebagai framework utama
+- PHP modern dengan best practices
+- MySQL & PostgreSQL untuk database
+
+**🐋 DevOps Skills:**
+- Docker untuk containerization
+- Linux untuk server management
+- Git untuk version control
+
+**🤖 Hardware Magic:**
+- Arduino & ESP32 programming
+- IoT sensor integration
+- Mikrokontroller projects
+
+**💡 Bonus Achievement**: Full Stack + Hardware Developer! 🚀
 
 </details>
 </details>
@@ -108,15 +143,25 @@ class Developer
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
 ### 🔥 **Streak Stats**
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 **GitHub Trophies**
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -141,7 +186,21 @@ class Developer
 
 <div align="center">
   
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 **Contribution Snake**
+
+<div align="center">
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -222,12 +281,12 @@ mindmap
 
 ### 💖 **Thanks for visiting my profile!**
 
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
-
----
-
+<div align="center">
+  
 **⭐ If you like my projects, give them a star!**  
 **🤝 Open for collaboration and interesting projects**
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
