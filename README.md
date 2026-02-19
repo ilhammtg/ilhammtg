@@ -64,14 +64,14 @@ IMPORTANT: This section requires a GitHub Action to work!
 See INSTRUCTIONS.md for setup.
 -->
 <div align="center">
-  <img src="https://github.com/[Your-Username]/[Your-Username]/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/ilhammtg/ilhammtg/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <br />
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=[Your-Username]&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ilhammtg&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
   </a>
 </div>
 
@@ -81,10 +81,10 @@ See INSTRUCTIONS.md for setup.
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=[Your-Username]&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ilhammtg&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-Username]&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhammtg&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
   </a>
 </div>
 
@@ -93,10 +93,10 @@ See INSTRUCTIONS.md for setup.
 ### ⚡ Connect with the Engineer
 
 <p align="center">
-  <a href="https://linkedin.com/in/[your-linkedin-handle]">
+  <a href="https://linkedin.com/in/ilhammtg">
     <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:[your.email@example.com]">
+  <a href="mailto:ilhammtg2020@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://instagram.com/yra.ilhm">
