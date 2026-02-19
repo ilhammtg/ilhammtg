@@ -70,9 +70,7 @@ See INSTRUCTIONS.md for setup.
 <br />
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ilhammtg&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ilhammtg&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
 </div>
 
 ---
@@ -80,12 +78,12 @@ See INSTRUCTIONS.md for setup.
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ilhammtg&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhammtg&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
-  </a>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ilhammtg&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhammtg&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ilhammtg&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
