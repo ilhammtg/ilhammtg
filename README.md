@@ -1,100 +1,131 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there,%20I'm%20[Your%20Name]!%20👋&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Tech%20Enthusiast%20%7C%20Creative%20Mind&descAlignY=55&descAlign=62" width="100%" alt="Header" />
-</div>
+<h1 align="center">Hi, I'm Ilham 👋</h1>
 
-<h1 align="center">Welcome to my digital playground! 🚀</h1>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Blogger;Coffee+Lover+%E2%98%95" alt="Typing SVG" />
-  </a>
-</div>
-
-<br />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=IoT+Developer;Web+Developer;Machine+Learning+Enthusiast;Networking+Specialist;Embedded+Systems+Engineer" />
+</p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💼 About Me
 
-- 🔭 I’m currently working on **matamamplam.my.id & nexgenbot.my.id**
-- 🌱 I’m currently learning **Machine Learning, IoI, Flutter, Next.js, Node.js, Python, etc.**
-<!-- - 👯 I’m looking to collaborate on **[Open Source Projects]** -->
-- 💬 Ask me about **Machine Learning, IoI, Flutter, Next.js, Node.js, Python, etc.**
-- 📫 How to reach me: **ilhammtg2020@gmail.com**
-- ⚡ Fun fact: **I'm a coffee lover & Syifa Safira boyfriend!**
+Professional developer focused on building scalable web systems, intelligent IoT solutions, and reliable embedded systems.
 
----
-
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,express,mongodb,mysql,postgres,firebase,docker,git,github,vscode,figma,postman,scikitlearn,tensorflow,pytorch,python,c,cpp,java&perline=14" />
-</div>
-
-<br />
+- 🔭 Currently working on IoT & Web Integration
+- 🌱 Exploring Machine Learning & Automation
+- 🧠 Passionate about Networking Architecture
+- ⚡ Strong focus on clean and maintainable systems
 
 ---
 
-### 📊 GitHub Stats
+## 🛠 Tech Stack
 
-<div align="center">
+### Backend & Web
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[Your-Username]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="GitHub Stats" />
-  </a>
+### IoT & Embedded
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 
-  <!-- Top Languages Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-Username]&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Langs" />
-  </a>
-
-</div>
-
-<br />
-
-<div align="center">
-  <!-- Streak Stats -->
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Your-Username]&theme=tokyonight&hide_border=true&background=0d1117&ring=FEFE5B&currStreakLabel=FEFE5B" alt="Streak Stats" />
-  </a>
-</div>
-
-<br />
+### Networking
+![Cisco](https://img.shields.io/badge/Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
-### 🏆 Trophies
+## 📊 GitHub Analytics
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=[Your-Username]&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-  </a>
-</div>
-
----
-
-### 🤝 Connect with Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/[your-linkedin-handle]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a> 
-  <a href="https://twitter.com/[your-twitter-handle]" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
-  </a> 
-  <a href="mailto:[your.email@example.com]">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://[your-website.com]" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
-</div>
-
-<br />
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ilhammtg&show_icons=true&theme=default&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhammtg&layout=compact&theme=default&hide_border=true" />
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ilhammtg&theme=github-light&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ilhammtg/ilhammtg/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|----------|------------|------|
+| IoT Attendance System | RFID based web integrated attendance | ESP8266, Laravel |
+| Smart Fire Detector | Telegram integrated alert system | IoT, Sensor |
+| Auto Cat Feeder | RTC based feeding automation | ESP8266 |
+| Line Follower Robot | Optimized PCB based tracking robot | Arduino |
+
+---
+
+# 🎯 Mini Game: Guess The Port
+
+Test your networking knowledge.
+
+<details>
+<summary>Question 1</summary>
+
+Which port is used for HTTPS?
+
+A) 21  
+B) 25  
+C) 443  
+D) 110  
+
+**Answer:** 443
+
+</details>
+
+<details>
+<summary>Question 2</summary>
+
+Which port is used for SSH?
+
+A) 22  
+B) 23  
+C) 80  
+D) 143  
+
+**Answer:** 22
+
+</details>
+
+<details>
+<summary>Question 3</summary>
+
+Which protocol uses port 3306?
+
+A) PostgreSQL  
+B) MySQL  
+C) MongoDB  
+D) FTP  
+
+**Answer:** MySQL
+
+</details>
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio (Coming Soon)
+- 💼 LinkedIn (Add your link)
+- 📧 Email (Add your email)
+
+---
+
+<p align="center">
+  Clean Systems • Smart Architecture • Reliable Engineering
+</p>
